@@ -1,0 +1,45 @@
+*{ margin: 0; padding: 0; font-family: "微软雅黑" verdana;}
+li {list-style: none;}
+a{ text-decoration: none; }
+.over{ overflow: hidden;}
+.bkred{ background: #64000a;}
+.color_red{ color: #B92C28;}
+.error_red{ color: #B11818;}
+
+.p_100 img{ width: 100%; display: block;}
+.blank10{ height: 10px; overflow: hidden;} 
+.relative{position: relative;}
+.absolute{position: absolute;}
+.margin_auto{ margin: auto;}
+.p_100{ width: 100%;}
+.block{display: block;}
+.container{ width: 96%; margin: 0 auto; }
+.xs3{ width: 33.3333%; float: left;}
+
+
+.container_bk{background: url(../images/5yue_p_bk.png)  repeat-y center; background-size:contain;}
+
+.c_box{ width: 98%;}
+
+.cp1{ width: 44%; height: 44%; top: 10%; left: 5%;}
+.cp2{width: 44%; height: 44%; top: 10%; left: 49%;}
+.cp3{ width: 44%; height: 44%; top: 54%; left: 5%;}
+.cp4{width: 44%; height: 44%; top: 54%; left: 49%;}
+
+
+
+.bmform{ width: 100%; height: 64%; position: absolute; top: 14%; left: 0px; }
+.bmrs{ font-size: 14px; text-align: center; font-weight: bold; margin-top: 1%;}
+.bmkh{ font-size: 16px; text-align: center;  font-weight: bold; margin-top: 1%;}
+.bmform_box{ width: 60%; height:30%;  margin:5% auto;  }
+.bmform_box form{ width: 100%; height: 100%;  }
+.bmform_box table{ width: 96%; height: 100%; margin:0 auto;  border-collapse: collapse;border: solid 1px #dfdfdf;background: #ffffff;}
+.bmform_box table tr{ height: 50%;border: solid 1px #dfdfdf;}
+.bmform_box table tr td{ text-align: center;  }
+.bmform_box table tr td strong{ text-align: center; font-size: 14px;}
+.bmform_box table tr td input.bmform_box_text{ background: #ffffff;  width: 90%; height: 100%;  border: none; padding-left: 4%;}
+.bmform_box table input.error_red{ color: #B92C28;}
+#sub_btn img{ width: 30%; margin:0 auto; }
+.bm_mes_img{ width: 66%; margin:1% auto ;}
+
+
